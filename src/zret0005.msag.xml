@@ -1,0 +1,1130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZRET0005</ARBGB>
+    <MASTERLANG>S</MASTERLANG>
+    <STEXT>Mensajes emitidos desde ZRET0005</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Por favor, complete todos los campos requeridos en la pantalla</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Por favor, seleccione al menos una línea</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>El valor del campo &amp;1 no es correcto</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Comienzo de la actualización del pedido de ventas &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>No se han encontrado datos</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Por favor seleccine un campo para el cambio masivo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>No hay ningún pedido para cancelar</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Comienzo de la actualizacion del pedido de retail &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Error descargando el fichero</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Error en el nombre del fichero</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Error creando el fichero &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Error escribiendo el fichero &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Error cerrando el fichero &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Error abriendo el fichero &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Error cerrando el fichero &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Indicar tipo de pedido de ventas</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Indique el centro de entrega</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Indique el motivo del rechazo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Indique el tipo del pedido de compras</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Indique el centro que recibe el item</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>La fecha no puede ser máxima de &amp;1 meses</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>No hay datos para la selección</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Tipo de documento incorrecto</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Compruebe el tipo de documento de compras</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El código de material &amp;3 fallo en la verificación</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>El item se ha creado satisfactioramente para el material &amp;1 línea &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El porcentaje de descuento no es correcto</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El formato de la fecha de entrega no es correcto</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El formato de la fecha límite no es correcto</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: Tipo de pos. &quot;free good&quot; no está mantenido en customaizing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>&amp;1:line &amp;2: Delivery date format is incorrect</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>El fichero &amp;1 no contiene datos</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT> &amp;1:línea &amp;2: El solicitante no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El dest. de mercancias no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: La condición de descuento no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El centro no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El almacén no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>La fecha de entrega ha sido determinada automáticamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>La fecha de entrega y el Drop se han determinado automáticamente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>La nueva fecha de entrega está fuera del rango del Drop seleccionado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Los datos de temporada no existen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Error en los datos de temporada. Se restaura su valor.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>El drop &amp;1 no existe para la temporada &amp;2 del año &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Los datos de temporada son erróneos.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Debe completar todos los campos de temporada requeridos para tipo doc. &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>La nueva fecha de entrega se ha transferido a las fechas de reparto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>El fichero se ha cargado correctamente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>El Drop se ha determinado automáticamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Indique el Estado de Cancelación del Material</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Indique la Fecha de Creación Inicial</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Indique Fecha Final de Creación</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Se ha producido un error modificando la fecha de entrega.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>El almacén no esta informado en la Pos. &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>El interlocutor TF no existe.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>El motivo del rechazo está vacío</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Al menos una de las lineas seleccionadas tiene motivo de rechazo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Al menos una linea de las seleccionadas no puede ser cancelada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>Al menos una de las líneas seleccinada no ha sido cancelada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>Cliente &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>La fecha de creación final es menor que la fecha de creación inicial</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>No se puede solicitar mas del stock disponible.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>Error creando la entrega. Transacción errónea. Debe Adjudicar el pedido.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>Función de interlocutor para Agente de Ventas no está parametrizada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>No hay mensajes para imprimir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>There are no conditions with knumv key &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>There is no values in Set Up Partner Function for Pricing table.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>No &amp; items for the Sales Document</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>No existe la el documento de entrega &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>068</MSGNR>
+     <TEXT>No items for the Delivery document &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>No hay paquete para la entrega &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>Cust/S.Org/Dist.Ch/Div. &amp;1/&amp;2/&amp;3/&amp;4 hasn&apos;t a register in Master Sales.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>No se han encontrado datos para el documento de ventas &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>No se han encontrado datos para la factura &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>Indicate an agent</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>074</MSGNR>
+     <TEXT>Indicate a customer</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>075</MSGNR>
+     <TEXT>Partner Function: &amp;1 not found in table: /BMG/SDTC00005</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>076</MSGNR>
+     <TEXT>Cantidad minima de pedido insuficiente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>077</MSGNR>
+     <TEXT>Este material forma parte de un conjunto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>078</MSGNR>
+     <TEXT>Recepción exitosa</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>079</MSGNR>
+     <TEXT>Se ha producido un error actualizando el status de la devolución &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>080</MSGNR>
+     <TEXT>El status de la devolución &amp;1 se ha actualizado correctamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>081</MSGNR>
+     <TEXT>Debe informar el número de paquetes</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>082</MSGNR>
+     <TEXT>No se puede cerrar la recepción si la devolución no ha sido liberada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>083</MSGNR>
+     <TEXT>Introduzca un valor válido</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>084</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El tipo de condición &amp;1 no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>085</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El valor neto &amp;1 no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>086</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: El tipo de posición de devolución no está mantenido en custo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>087</MSGNR>
+     <TEXT>Doc. &amp;1 : El campo &amp;2 no puede estar vacío ...</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>088</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>089</MSGNR>
+     <TEXT>&amp;1:línea &amp;2: formato Cantidad es incorrecto</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>090</MSGNR>
+     <TEXT>Rellene campos de temporada obligatorios antes de insertar nuevos items</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>091</MSGNR>
+     <TEXT>No se ha encontrado el material</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>092</MSGNR>
+     <TEXT>Pulse &amp;1 para guardar.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>093</MSGNR>
+     <TEXT>Ped.Ventas &amp;1 no tiene activo el Autocompl.Estados Entr.Sal. Intercompany</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>094</MSGNR>
+     <TEXT>El centro &amp;1 no tiene sociedad</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>095</MSGNR>
+     <TEXT>Este proceso no es intracompany.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>096</MSGNR>
+     <TEXT>NO existen entregas para la factura &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>097</MSGNR>
+     <TEXT>No existen entregas que ajustar.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>098</MSGNR>
+     <TEXT>Este no es un proceso intercompany.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>099</MSGNR>
+     <TEXT>Error LUW en Redeterm. Estados Entrega. Se puede reprocesar con RSNAST0F.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>100</MSGNR>
+     <TEXT>La redeterminación de estados de entrega se lanza en proceso de fondo.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>101</MSGNR>
+     <TEXT>Falta el código del cliente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>102</MSGNR>
+     <TEXT>El cliente &amp;1 no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>103</MSGNR>
+     <TEXT>El cliente &amp;1 no está dado de alta para el área de venta requerida</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>104</MSGNR>
+     <TEXT>Error Postal Code</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>105</MSGNR>
+     <TEXT>Error Tax Code</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>106</MSGNR>
+     <TEXT>Documento &amp;1 está liberado y no puede ser modificado por esta transacción</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>107</MSGNR>
+     <TEXT>El área de venta no es única</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>108</MSGNR>
+     <TEXT>El área de venta no es valido</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>109</MSGNR>
+     <TEXT>Error inesperado al asignar código de cliente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>110</MSGNR>
+     <TEXT>Datos de impuestos incorrectos</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>111</MSGNR>
+     <TEXT>No tiene permisos para crear clientes</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>112</MSGNR>
+     <TEXT>Al menos un bulto de la devolución &amp;1 no esta cerrado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>113</MSGNR>
+     <TEXT>Este documento no esta liberado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>114</MSGNR>
+     <TEXT>Error en la versión</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>115</MSGNR>
+     <TEXT>Comprobar cantidades no multiples</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>116</MSGNR>
+     <TEXT>&amp;1 no es una dirección de correo electrónico correcta</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>117</MSGNR>
+     <TEXT>Iban no valido</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>118</MSGNR>
+     <TEXT>El pedido para el centro &amp;1 no ha sido creado, el material &amp;2 no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>119</MSGNR>
+     <TEXT>Pedido para el centro &amp;1 no ha sido creado el material &amp;2 está bloquedo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>120</MSGNR>
+     <TEXT>Pedido para &amp;1 no ha sido creado el material &amp;2 está marcado como borrado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>121</MSGNR>
+     <TEXT>Bloqueo de entrega no informado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>122</MSGNR>
+     <TEXT>No existe email del remitente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>123</MSGNR>
+     <TEXT>No existe email de destino</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>124</MSGNR>
+     <TEXT>No existe texto de asunto para el email</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>125</MSGNR>
+     <TEXT>No existe texto del cuerpo del email</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>126</MSGNR>
+     <TEXT>Error, el job no ha sido creado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>127</MSGNR>
+     <TEXT>El job &amp;1 ha sido creado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>128</MSGNR>
+     <TEXT>No se permite eliminar posiciones en pedidos de venta.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>129</MSGNR>
+     <TEXT>No existe email de destino para &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>130</MSGNR>
+     <TEXT>No existe texto de asunto para &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>131</MSGNR>
+     <TEXT>No existe texto del cuerpo para &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>132</MSGNR>
+     <TEXT>Documento enviado a &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>133</MSGNR>
+     <TEXT>No hay categorías de devolución válidas en los documentos seleccionados.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>134</MSGNR>
+     <TEXT>El documento &amp;1 tiene datos incompletos.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>135</MSGNR>
+     <TEXT>Bloqueo entrega borrado según la configuración de pedidos de devolución.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>136</MSGNR>
+     <TEXT>Devolución &amp;1 esta bloqueada por el usuario &amp;2 en la tabla /BMG/WMTT00002</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>137</MSGNR>
+     <TEXT>El transporte o el Tipo de mensaje no puede ser determinado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>138</MSGNR>
+     <TEXT>No se han encontrado datos para el transporte &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>139</MSGNR>
+     <TEXT>El transporte &amp;1 no existe.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>140</MSGNR>
+     <TEXT>No existen items para el transporte &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>141</MSGNR>
+     <TEXT>Clases de material de embalajes no definidos en tabla /BMG/SDTC00036.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>142</MSGNR>
+     <TEXT>No hay materiales embalados en el transporte &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>143</MSGNR>
+     <TEXT>No existe descripción para la clase de expedición &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>144</MSGNR>
+     <TEXT>No se han encontrado materiales activos.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>145</MSGNR>
+     <TEXT>No se han encontado tiendas con ese material.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>146</MSGNR>
+     <TEXT>No se puede crear una entrega con un material dependiente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>147</MSGNR>
+     <TEXT>Cantidad ajustada al disponible en CrossDock</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>148</MSGNR>
+     <TEXT>No existe textos de Clase de pedido de cliente &amp;2 para idioma &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>149</MSGNR>
+     <TEXT>No existe textos de Clase de pedido de cliente &amp;2 para idioma 2 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>150</MSGNR>
+     <TEXT>No existen descripciones para el grado de moda</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>151</MSGNR>
+     <TEXT>No se ha encontrado el material &amp;1, lote &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>152</MSGNR>
+     <TEXT>Debe informar el campo material</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>153</MSGNR>
+     <TEXT>Debe informar el campo lote</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>154</MSGNR>
+     <TEXT>No se ha encontrado el material &amp;1, lote &amp;2, centro &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>155</MSGNR>
+     <TEXT>Debe introducir un almacén</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>156</MSGNR>
+     <TEXT>El almacén &amp;1 no existe para el centro &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>157</MSGNR>
+     <TEXT>Debe informar el campo almacén</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>158</MSGNR>
+     <TEXT>No se ha encontrado el material &amp;1, lote &amp;2, centro &amp;3, almacén &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>159</MSGNR>
+     <TEXT>No hay agentes parametrizados en la tabla /BMG/SDTC00005</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>160</MSGNR>
+     <TEXT>Se han seleccionado posiciones sin pedido de compras</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>161</MSGNR>
+     <TEXT>El pedido de compras &amp;1 no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>162</MSGNR>
+     <TEXT>Los datos han sido grabados correctamente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>163</MSGNR>
+     <TEXT>Error grabando los datos</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>164</MSGNR>
+     <TEXT>Debe introducir un pedido de compras</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>165</MSGNR>
+     <TEXT>Se han seleccionado posiciones de diferentes agentes</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>166</MSGNR>
+     <TEXT>Se han seleccionado posiciones ya anuladas</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>167</MSGNR>
+     <TEXT>No se han definido comisiones en la tabla de custo /BMG/SDTC00046</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>168</MSGNR>
+     <TEXT>Devolución &amp;1: Error creando el lote &amp;2 para el material &amp;3&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>169</MSGNR>
+     <TEXT>Devolución &amp;1: Lote &amp;2 para el material &amp;3&amp;4 creado correctamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>170</MSGNR>
+     <TEXT>&amp;1 no definido como almacén de devolución en /BMG/SDTC00047</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>171</MSGNR>
+     <TEXT>El pedido de compras &amp;1 tiene factura de proveedor</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>172</MSGNR>
+     <TEXT>Condición de pago &amp; no prevista.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>173</MSGNR>
+     <TEXT>Incoterms 1 &amp; no previsto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>174</MSGNR>
+     <TEXT>Bloqueo de entrega &amp; no previsto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>175</MSGNR>
+     <TEXT>Bloqueo de factura &amp; no previsto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>176</MSGNR>
+     <TEXT>Agente &amp; no válido.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>177</MSGNR>
+     <TEXT>Transportista &amp; no válido.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>178</MSGNR>
+     <TEXT>Dest.Mercancías &amp; no válido.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>179</MSGNR>
+     <TEXT>Cl.determ.precio &amp; no válida.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>180</MSGNR>
+     <TEXT>Tipo de envio &amp; no válido.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>181</MSGNR>
+     <TEXT>No hay materiales para modificar</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>182</MSGNR>
+     <TEXT>Por favor rellene todos los campos obligatorios</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>183</MSGNR>
+     <TEXT>El material introducido no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>184</MSGNR>
+     <TEXT>El motivo de rechazo introducido no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZRET0005</ARBGB>
+     <MSGNR>185</MSGNR>
+     <TEXT>No hay materiales para modificar</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

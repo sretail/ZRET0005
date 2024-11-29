@@ -363,18 +363,28 @@ FORM f_get_sales_orders  CHANGING ptc_orders TYPE gtyp_t_orders.
   ENDIF.
 
   IF ptc_orders IS NOT INITIAL.
-    SELECT vbkd~vbeln,
-           vbkd~posnr,
-           vbkd~inco1,
-           vbkd~inco2,
-           vbkd~zterm,
-           vbkd~valdt,
-           vbkd~vsart,
-           t052u~text1 AS ztermt
-      FROM vbkd LEFT JOIN t052u ON t052u~spras = @sy-langu AND t052u~zterm = vbkd~zterm
+    SELECT vbeln,
+           posnr,
+           inco1,
+           inco2,
+           zterm,
+           valdt,
+           vsart
+      from vbkd
       INTO CORRESPONDING FIELDS OF TABLE @lt_vbkd
       FOR ALL ENTRIES IN @ptc_orders
       WHERE vbeln = @ptc_orders-vbeln.
+
+    loop at lt_vbkd into ls_vbkd.
+      select single text1
+        from t052u
+        into ls_vbkd-ztermt
+       where spras = sy-langu
+         and zterm = ls_vbkd-zterm.
+
+      MODIFY lt_vbkd from ls_vbkd.
+    endloop.
+
 
     SELECT vbeln posnr etenr edatu
       FROM vbep
@@ -640,7 +650,9 @@ FORM f_check_so_selection  USING psu_changex TYPE gtyp_s_changex
     AND psu_changex-edatu      IS INITIAL AND psu_changex-lifsk   IS INITIAL
     AND psu_changex-freight_ag IS INITIAL AND psu_changex-valdt   IS INITIAL
     AND psu_changex-knprs      IS INITIAL AND psu_changex-faksk   IS INITIAL
-    AND psu_changex-vsart      IS INITIAL AND psu_changex-shipto  IS INITIAL .
+    AND psu_changex-vsart      IS INITIAL AND psu_changex-shipto  IS INITIAL
+    and psu_changex-BSTDK      is initial and psu_changex-eindt   is initial                        "@APRADAS-29.11.2024 08:03:29
+    and psu_changex-agent      is initial and psu_changex-ZLSCH   is initial.                       "@APRADAS-29.11.2024 08:03:29
 
     MESSAGE i005(zret0005)."Please select one field for mass change
     pcv_error = 'X'.

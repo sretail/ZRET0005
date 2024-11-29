@@ -151,7 +151,7 @@ TYPES: BEGIN OF gtyp_s_vbkd,
          vsart TYPE vsarttr,
          ztermt type TEXT1_052,
        END OF gtyp_s_vbkd,
-       gtyp_t_vbkd TYPE HASHED TABLE OF gtyp_s_vbkd WITH UNIQUE KEY vbeln posnr.
+       gtyp_t_vbkd TYPE standard TABLE OF gtyp_s_vbkd.
 
 TYPES: BEGIN OF gtyp_s_vbep,
          vbeln TYPE vbeln_va,
